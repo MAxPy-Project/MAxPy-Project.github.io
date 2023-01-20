@@ -202,9 +202,9 @@ a:hover {
 }
 
 .logo {
-    width: 200px;
-    float: center;
-    margin: 0px 30px;
+    width: 180px;
+    float: left;
+    margin: 10px 30px;
 }
 
 .col {
